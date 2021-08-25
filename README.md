@@ -1,3 +1,4 @@
 # snake-game
 using python turtle module
-<img src="C:\Users\901134\OneDrive - Cognizant\Pictures\Screenshots\Screenshot3>
+![Screenshot (3)](https://user-images.githubusercontent.com/46227372/130735037-b1eb77a4-3e82-465b-bb89-4a18a2aeef25.png)
+
